@@ -1,0 +1,244 @@
+[
+ {
+  "name": "shank_plate_inner_ratchet",
+  "color": [
+   0.4,
+   0.43,
+   0.5
+  ],
+  "material": "steel 5 mm laser-cut, hardened",
+  "printed": false,
+  "volume_mm3": 23287.4
+ },
+ {
+  "name": "shank_plate_outer_ratchet",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "steel 5 mm laser-cut, hardened (teeth phased +3.75 deg)",
+  "printed": false,
+  "volume_mm3": 36234.8
+ },
+ {
+  "name": "thigh_plate",
+  "color": [
+   0.55,
+   0.6,
+   0.68
+  ],
+  "material": "steel 6 mm laser-cut",
+  "printed": false,
+  "volume_mm3": 48404.0
+ },
+ {
+  "name": "pawl_A",
+  "color": [
+   0.4,
+   0.43,
+   0.5
+  ],
+  "material": "steel 5 mm laser-cut, hardened",
+  "printed": false,
+  "volume_mm3": 1221.8
+ },
+ {
+  "name": "pawl_B",
+  "color": [
+   0.4,
+   0.43,
+   0.5
+  ],
+  "material": "steel 5 mm laser-cut, hardened",
+  "printed": false,
+  "volume_mm3": 1221.8
+ },
+ {
+  "name": "pawl_pin",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "dowel pin 6 mm",
+  "printed": false,
+  "volume_mm3": 565.5
+ },
+ {
+  "name": "pawl_bridge_pin",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "dowel pin 3.5 mm",
+  "printed": false,
+  "volume_mm3": 187.6
+ },
+ {
+  "name": "knee_pin",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "shoulder bolt 12 mm",
+  "printed": false,
+  "volume_mm3": 3180.9
+ },
+ {
+  "name": "bushing_inner",
+  "color": [
+   0.72,
+   0.52,
+   0.3
+  ],
+  "material": "flanged bronze bushing",
+  "printed": false,
+  "volume_mm3": 308.6
+ },
+ {
+  "name": "bushing_outer",
+  "color": [
+   0.72,
+   0.52,
+   0.3
+  ],
+  "material": "flanged bronze bushing",
+  "printed": false,
+  "volume_mm3": 308.6
+ },
+ {
+  "name": "stop_lever",
+  "color": [
+   0.85,
+   0.45,
+   0.15
+  ],
+  "material": "steel 5 mm laser-cut",
+  "printed": false,
+  "volume_mm3": 512.3
+ },
+ {
+  "name": "lift_yoke",
+  "color": [
+   0.85,
+   0.45,
+   0.15
+  ],
+  "material": "PA12-CF printed",
+  "printed": true,
+  "volume_mm3": 1022.0
+ },
+ {
+  "name": "direction_ring",
+  "color": [
+   0.35,
+   0.55,
+   0.6
+  ],
+  "material": "spring-steel split ring",
+  "printed": false,
+  "volume_mm3": 2009.7
+ },
+ {
+  "name": "housing",
+  "color": [
+   0.2,
+   0.45,
+   0.8
+  ],
+  "material": "PA12-CF printed",
+  "printed": true,
+  "volume_mm3": 27207.0
+ },
+ {
+  "name": "damper_lift",
+  "color": [
+   0.15,
+   0.15,
+   0.17
+  ],
+  "material": "rotary damper 15 mm",
+  "printed": false,
+  "volume_mm3": 1626.4
+ },
+ {
+  "name": "damper_latch",
+  "color": [
+   0.15,
+   0.15,
+   0.17
+  ],
+  "material": "rotary damper 15 mm",
+  "printed": false,
+  "volume_mm3": 1626.4
+ },
+ {
+  "name": "timer_dashpot",
+  "color": [
+   0.15,
+   0.15,
+   0.17
+  ],
+  "material": "miniature dashpot",
+  "printed": false,
+  "volume_mm3": 1578.4
+ },
+ {
+  "name": "latch_lever",
+  "color": [
+   0.85,
+   0.45,
+   0.15
+  ],
+  "material": "PA12-CF printed",
+  "printed": true,
+  "volume_mm3": 350.9
+ },
+ {
+  "name": "mode_selector",
+  "color": [
+   0.85,
+   0.45,
+   0.15
+  ],
+  "material": "PA12-CF printed",
+  "printed": true,
+  "volume_mm3": 540.0
+ },
+ {
+  "name": "screw_M3_30",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "M3x12 screw",
+  "printed": false,
+  "volume_mm3": 130.6
+ },
+ {
+  "name": "screw_M3_140",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "M3x12 screw",
+  "printed": false,
+  "volume_mm3": 130.6
+ },
+ {
+  "name": "screw_M3_250",
+  "color": [
+   0.7,
+   0.72,
+   0.76
+  ],
+  "material": "M3x12 screw",
+  "printed": false,
+  "volume_mm3": 130.6
+ }
+]

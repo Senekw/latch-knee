@@ -1,0 +1,24 @@
+item,part,material_process,qty,unit_usd,ext_usd,source
+1,"Shank plate, inner (toothed sector, stop lug, bar stub)","laser-cut 17-4PH H900 or 1095 hardened, 5 mm",1,12.0,12.0,local laser-cutting service
+2,"Shank plate, outer (toothed sector phased +3.75°, bar stub, ring boss)","laser-cut 17-4PH H900 or 1095 hardened, 5 mm",1,12.0,12.0,local laser-cutting service
+3,Thigh plate (hub + bar stub),"laser-cut 304/17-4PH, 6 mm",1,10.0,10.0,local laser-cutting service
+4,"Pawl, 3-tooth hook (identical, one per layer)","laser-cut hardened steel, 5 mm",2,4.0,8.0,local laser-cutting service
+5,Stop lever (sprung hyperextension stop),"laser-cut steel, 5 mm",1,2.5,2.5,local laser-cutting service
+6,"Knee pin, shoulder bolt 12 x 24 mm + nylock nut",steel,1,3.0,3.0,McMaster 91259A / generic
+7,Flanged bronze bushing 12 x 14 x 5 mm,SAE 660,2,1.8,3.6,generic
+8,"Pawl pivot pin, dowel 6 x 22 mm",hardened steel,1,0.8,0.8,generic
+9,"Pawl bridge pin, dowel 3.5 x 22 mm",steel,1,0.5,0.5,generic
+10,Housing / cover,"PA12-CF, FFF printed (approx. 45 g)",1,3.0,3.0,any FFF printer
+11,Lift yoke,"PA12-CF, FFF printed",1,0.4,0.4,any FFF printer
+12,Latch lever,"PA12-CF, FFF printed",1,0.2,0.2,any FFF printer
+13,Mode selector (LOCK / AUTO / FREE),"PA12-CF, FFF printed",1,0.3,0.3,any FFF printer
+14,Direction ring (split friction ring with tab),"spring steel 1.0 mm, laser-cut/formed",1,2.0,2.0,local laser-cutting service
+15,"Rotary damper 15 mm (pawl drop delay, ~0.1 s)",oil rotary damper,1,2.5,2.5,e.g. TOK TD / generic soft-close damper
+16,"Rotary damper 15 mm (latch memory, ~0.15 s)",oil rotary damper,1,2.5,2.5,generic
+17,"Miniature dashpot (stop timer, ~0.3 s)","oil dashpot, 3 mm stroke",1,5.0,5.0,Airpot / generic
+18,"Stop detector spring, die spring, preload 60-100 N over 1 mm",steel,1,1.5,1.5,generic
+19,"Pawl-load latch spring (Belleville stack, 150-250 N preload)",steel,1,1.5,1.5,generic
+20,Pawl torsion springs,music wire,2,0.4,0.8,generic
+21,Yoke / latch return springs,music wire,2,0.3,0.6,generic
+22,M3 x 12 screws + heat-set inserts,steel/brass,3,0.3,0.9,generic
+23,"Preload adjustment screws M4 (stop, latch)",steel,2,0.2,0.4,generic
